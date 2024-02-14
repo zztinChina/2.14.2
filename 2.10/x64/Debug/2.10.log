@@ -1,0 +1,5 @@
+﻿  FileName.cpp
+D:\vs编译器\2.10\FileName.cpp(26,17): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs编译器\2.10\FileName.cpp(20,21): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+D:\vs编译器\2.10\FileName.cpp(24,13): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\vs编译器\2.10\FileName.cpp(29,17): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
